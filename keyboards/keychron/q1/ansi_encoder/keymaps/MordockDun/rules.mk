@@ -1,0 +1,2 @@
+ENCODER_MAP_ENABLE = yes
+CONVERT_TO=proton_c
